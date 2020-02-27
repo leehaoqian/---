@@ -1,3 +1,3 @@
-select * from emp;
-select * from dm_bsc_sercurity
+select * from a;
+select * from by
 测试代码
