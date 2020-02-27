@@ -1,3 +1,3 @@
 select * from a;
-select * from by
+select * from b;
 测试代码
